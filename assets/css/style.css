@@ -1,0 +1,46 @@
+/* Head of the Game */
+
+.titleContainer {
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+    
+}
+
+.instructions {
+    font-size: 20px;
+font-family: 'Indie Flower', cursive;
+}
+
+.img-psylady {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.im-psy {
+    display: inline;
+}
+
+/* Main container */
+
+
+.main-container {
+    font-family: 'Major Mono Display', monospace;
+    font-weight: 900;
+    font-size: 20px;
+    /* font-family: 'Major Mono Display', monospace; */
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 80px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.game-ref {
+    
+}
+
+
